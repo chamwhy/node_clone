@@ -1,0 +1,25 @@
+{
+  "name": "node_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamwhy/node_clone.git"
+  },
+  "author": "chamwhy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chamwhy/node_clone/issues"
+  },
+  "homepage": "https://github.com/chamwhy/node_clone#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18",
+    "passport": "^0.4.1"
+  }
+}
